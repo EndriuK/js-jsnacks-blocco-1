@@ -14,3 +14,6 @@ for (let i = 0; i < 6; i++) {
     console.log("Il numero è dispari");
   }
 }
+
+// STAMPA DELL'ARRAY
+console.log("Numeri dispari inseriti: ", arrayDispari);
